@@ -9,7 +9,7 @@ The model had a 90% success rate and an AUC(Area under the ROC curve) of 93%.
 # Tools Used
 -Data Cleaning and Exploratory Analysis: The data cleaning and exploratory analysis were conducted using BigQuery.
 
--Visualizations: Visualizations were created using Tableau to gain insights into the dataset and communicate findings effectively.
+-Visualizations: Visualizations about the exploratory analysis were created using Tableau. If you want to get in touch with the main charasteristics of the database before seeing the model, it is recommended to see the 'exploratory analysis' file first.
 
 -Multiple Regression Model Building: The multiple regression model was built using R Studio to analyze the relationship between various predictors and customer attrition.
 

@@ -1,4 +1,4 @@
-# bank_churners_project
+# Bank churners project
 Welcome to the Credit Card Customer Attrition Analysis repository!
 
 # Overview
